@@ -17924,11 +17924,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jeroe\\source\\repos\\core\\Portfolio\\schaak\\Schaak.csproj",
+      "projectUniqueName": "C:\\Users\\jeroe\\source\\repos\\core\\Portfolio\\Schaak\\Schaak.csproj",
       "projectName": "Schaak",
-      "projectPath": "C:\\Users\\jeroe\\source\\repos\\core\\Portfolio\\schaak\\Schaak.csproj",
+      "projectPath": "C:\\Users\\jeroe\\source\\repos\\core\\Portfolio\\Schaak\\Schaak.csproj",
       "packagesPath": "C:\\Users\\jeroe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jeroe\\source\\repos\\core\\Portfolio\\schaak\\obj\\",
+      "outputPath": "C:\\Users\\jeroe\\source\\repos\\core\\Portfolio\\Schaak\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
